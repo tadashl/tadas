@@ -16,6 +16,9 @@ Usuário Visitante:
 
 Mapa de Navegação:MAPA URL()
 
-Wireframe:WIREFRAME URL()
+Wireframe/desktop:WIREFRAME URL(https://wireframe.cc/3PQj08)
 
+Wireframe/tablet:WIREFRAME URL(https://wireframe.cc/bRaImD)
+
+Wireframe/dispositivo movel:WIREFRAME URL(https://wireframe.cc/dPwsuu)
 
